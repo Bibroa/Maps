@@ -11,5 +11,4 @@ They highlight economic, technological, demographic, ecological, and normative d
 
 All visualizations are based on regionalized data from Eurostat, national statistical offices, and other official sources.
 
-The maps accompany the technical document:
-"Shifting Landscapes: Structural transformations that shape the VET workforce across European regions" (2025).
+The maps accompany the technical report: "Shifting Landscapes: Structural transformations that shape the VET workforce across European regions" (Weßling & Loll, 2025).
