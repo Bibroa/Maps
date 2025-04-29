@@ -1,3 +1,5 @@
+Interactive Maps – Skills2Capabilities
+
 This repository contains interactive maps developed within the Horizon Europe project Skills2Capabilities.
 
 The maps show dimensions of structural transformation at the regional level for several European countries, including Austria, Bulgaria, Germany, Estonia, Finland, Italy, the Netherlands, Norway, and the United Kingdom.
